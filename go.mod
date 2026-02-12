@@ -1,4 +1,4 @@
-module trpc.group/trpc/trpc-protocol/pb/go/trpc
+module github.com/NHYCRaymond/trpc-protocol
 
 go 1.16
 
